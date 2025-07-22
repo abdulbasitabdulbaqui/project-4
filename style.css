@@ -1,0 +1,25 @@
+#img{
+ text-align: center;
+}
+
+#nav{
+    text-align: center;
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+}
+
+#nav li{
+    display: inline-block;
+    margin: 25px;
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+#para{
+    text-align: justify;
+}
